@@ -3,16 +3,16 @@
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.3",
   "description": "",
-  "author": "exwer <33112175+exwer@users.noreply.github.com>",
+  "author": "KurobaRemu <33112175+KurobaRemu@users.noreply.github.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/exwer",
-  "homepage": "https://github.com/exwer/view#readme",
+  "funding": "https://github.com/sponsors/KurobaRemu",
+  "homepage": "https://github.com/KurobaRemu/view#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exwer/view.git"
+    "url": "git+https://github.com/KurobaRemu/view.git"
   },
   "bugs": {
-    "url": "https://github.com/exwer/view/issues"
+    "url": "https://github.com/KurobaRemu/view/issues"
   },
   "keywords": [
     "vue"
